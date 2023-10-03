@@ -109,7 +109,7 @@ canvas {
       }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 368px) {
     body {
         background: linear-gradient(100deg, pink, pink, pink);
 
